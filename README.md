@@ -1,8 +1,6 @@
 <div align="center">
 
-# Naby Bani
-
-**@agentpixelated** · aka Pixieee
+# @agentpixelated · aka Pixieee
 
 Student & builder — Indonesian market fundamentals · 3Blue1Brown-style math animation · AI tooling
 
